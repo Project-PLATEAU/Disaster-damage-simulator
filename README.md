@@ -98,4 +98,4 @@
 
 ## 10. 参考資料
 - 技術検証レポート: <https://XXXXX>
-- PLATEAU Webサイト Use caseページ「損害額シミュレータ」: <https://XXXXX>
+- PLATEAU Webサイト Use caseページ「損害額シミュレータ」: <https://www.mlit.go.jp/plateau/use-case/uc23-03/>
