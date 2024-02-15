@@ -22,7 +22,7 @@
 
 
 ## 3. 利用手順
- 本システムの構築手順及び、利用手順、データ準備手順は[利用チュートリアル](https://XXXXX)をご確認ください。
+本システムの構築手順及び、利用手順、データ準備手順は[利用チュートリアル](https://project-plateau.github.io/Disaster-damage-simulator/index.html)をご確認ください。
 
 
 ## 4. システム概要
