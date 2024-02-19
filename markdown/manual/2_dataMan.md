@@ -63,13 +63,13 @@ CityGML形式の3D都市モデルをファイルジオデータベース形式�
 <br>
 - ArcGIS Pro を起動します。
 
-- [解析] タブ → [ツール] → [ジオプロセシング] ウィンドウの検索窓にて「xy」と入力 → [XY テーブル →ポイント] ツールをクリック → 以下の設定を行い、[実行] をクリックします。<br>
+- [解析] タブ → [ツール] → [ジオプロセシング] ウィンドウの検索窓にて「xy」と入力 → [XY テーブル →ポイント] ツールをクリック → 以下の設定を行い、[実行] をクリックします。入力テーブルには上記で作成したCSVファイルを指定ください。<br>
 ![](../resources/dataMan/dataMan_005.png)
 
 
 
 ## 2-4. 設定ファイルの更新
-「C:\plateau\tools\tables」に以下の3つのファイルがあります。ダミーの値が設定されているので、適切に修正ください。いずれも「用途×構造種別」ごとに値を設定する必要があります。用途と構造種別の番号は、[製品仕様書](https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0001_ver03.pdf)をご確認下さい。<br>
+「C:\plateau\tools\tables」に以下の3つのファイルがあります。ダミーの値が設定されているので、適切に修正ください。いずれも「用途×構造種別」ごとに値を設定する必要があります。用途と構造種別の番号は、[製品仕様書](https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_doc_0001_ver03.pdf)をご確認ください。<br>
 用途：製品仕様書のP118の"Building_usage.xml"を参照ください。<br>
 構造種別：製品仕様書のP133の"BuildingDetailAttribute_buildingStructureType.xml "を参照ください。<br>
 
