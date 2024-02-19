@@ -42,10 +42,70 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "manual/3_userMan.md",
+      "source_relative_path": "manual/3_gaiyou.md",
       "output": {
         ".html": {
-          "relative_path": "manual/3_userMan.html"
+          "relative_path": "manual/3_gaiyou.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/4_sinsuiAPI.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/4_sinsuiAPI.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/5_dosyaAPI.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/5_dosyaAPI.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/6_souteisinsuikuiki_keikaku.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/6_souteisinsuikuiki_keikaku.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/7_souteisinsuikuiki_saidai.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/7_souteisinsuikuiki_saidai.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/8_sinsuiAPI_IF.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/8_sinsuiAPI_IF.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/9_dosyaAPI_IF.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/9_dosyaAPI_IF.html"
         }
       },
       "version": ""
@@ -429,6 +489,16 @@
       "output": {
         "resource": {
           "relative_path": "resources/userMan/userMan_019.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/userMan/userMan_020.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/userMan/userMan_020.png"
         }
       },
       "version": ""
