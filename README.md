@@ -101,7 +101,6 @@
 本プログラムを動かすために必要な「3D都市モデルのサンプルデータ」を掲載しております。
 - 出典：[国土交通省ホームページ](https://www.geospatial.jp/ckan/dataset/plateau)
 - [「3D都市モデル」（国土交通省）](https://www.geospatial.jp/ckan/dataset/plateau)を加工して作成
-<br>
 
 本プログラムを動かすために必要な「浸水想定区域のサンプルデータ」も掲載しております。
 - 出典：[国土交通省国土数値情報ダウンロードサイト](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-A31-v3_0.html)
