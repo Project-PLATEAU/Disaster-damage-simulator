@@ -89,6 +89,7 @@
 - ソースコード及び関連ドキュメントの著作権は国土交通省に帰属します。
 - 本ドキュメントは[Project PLATEAUのサイトポリシー](https://www.mlit.go.jp/plateau/site-policy/)（CCBY4.0及び政府標準利用規約2.0）に従い提供されています。
 
+
 ## 9. 注意事項
 
 - 本リポジトリは参考資料として提供しているものです。動作保証は行っていません。
@@ -96,6 +97,16 @@
 - 本リポジトリの利用により生じた損失及び損害等について、国土交通省はいかなる責任も負わないものとします。
 
 
-## 10. 参考資料
+## 10. 出典
+本プログラムを動かすために必要な「3D都市モデルのサンプルデータ」を掲載しております。
+- 出典：[国土交通省ホームページ](https://www.geospatial.jp/ckan/dataset/plateau)
+- [「3D都市モデル」（国土交通省）](https://www.geospatial.jp/ckan/dataset/plateau)を加工して作成
+<br>
+また、本プログラムを動かすために必要な「浸水想定区域のサンプルデータ」も掲載しております。
+- 出典：[国土交通省国土数値情報ダウンロードサイト](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-A31-v3_0.html)
+- [「国土数値情報（洪水浸水想定区域データ）」（国土交通省）](https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-A31-v3_0.html)を加工して作成
+
+
+## 11. 参考資料
 - 技術検証レポート: <https://XXXXX>
 - PLATEAU Webサイト Use caseページ「損害額シミュレータ」: <https://www.mlit.go.jp/plateau/use-case/uc23-03/>
