@@ -12,12 +12,12 @@
 
 | 項目 | 最小動作環境 | 推奨動作環境 | 
 | - | - | - | 
-| OS | Microsoft Windows 10 または 11 | 同左 | 
-| CPU | 2コア、同時マルチスレッディング |  4コア(推奨)、10コア(最適) | 
-| メモリ | 8GB以上 | 32GB(推奨)、64GB(最適) | 
+| OS | Microsoft Windows 10 又は 11 | 同左 | 
+| CPU | 2コア、同時マルチスレッディング |  4コア（推奨）、10コア（最適） | 
+| メモリ | 8GB以上 | 32GB（推奨）、64GB（最適） | 
 | GPU | - | 4GB | 
 | ディスプレイ解像度 | 1024×768以上 |  1080p以上  | 
-| ストレージ | 32GB以上の空き容量 |  32 GB 以上の空き容量 (ソリッド ステート ドライブ (SSD) 上) | 
+| ストレージ | 32GB以上の空き容量 |  32 GB 以上の空き容量 （ソリッド ステート ドライブ (SSD） 上） | 
 | ソフトウェア | ArcGIS Pro 3.1（Basic以上のライセンス） | 同左 | 
 | ソフトウェアオプション | - | ArcGIS 3D Analyst※ | 
 
@@ -31,7 +31,7 @@
 - [My Esri](https://www.esri.com/ja-jp/my-esri-login)からArcGIS Pro(バージョン 3.1）をダウンロードし、インストールを行います。
 ※ArcGIS Proをダウンロードするには有料ライセンスが必要なため、ESRIジャパン（株）からライセンスを購入ください。
 
-- 続いて、[My Esri](https://www.esri.com/ja-jp/my-esri-login)から「ArcGIS Coordinate Systems Data」もダウンロードし、インストールを行います。インストール手順に不明点があれば[こちら](https://pro.arcgis.com/ja/pro-app/latest/help/mapping/properties/arcgis-coordinate-systems-data.htm)も参照ください。
+- 続いて、[My Esri](https://www.esri.com/ja-jp/my-esri-login)から「ArcGIS Coordinate Systems Data」をダウンロードし、インストールを行います。インストール手順に不明点があれば[こちら](https://pro.arcgis.com/ja/pro-app/latest/help/mapping/properties/arcgis-coordinate-systems-data.htm)も参照してください。
 
 
 # 4. 本システムのダウンロード
@@ -48,8 +48,8 @@ Cドライブ以外のドライブに配置してもプログラムは動きま�
 
 # 5. APIの作成
 続いて浸水APIや土砂APIを利用する場合はAPIの作成が必要となります。
-APIのIF仕様書は5-1と5-2を参照ください。
-接続するAPI(URL)が明確になりましたら、以下ファイルの接続先URLを変更ください。
+APIのIF仕様書は5-1と5-2を参照してください。
+接続するAPI（URL）が明確になったら、以下のファイルの接続先URLを変更してください。
 - フォルダパス<br>
     C:\plateau\tools\python
 - 対象ファイル<br>
@@ -66,4 +66,4 @@ APIのIF仕様書は5-1と5-2を参照ください。
 
 ## 5-1. インターフェース仕様書
 APIを利用するにはインターフェース仕様書に従って、APIの作成が必要となります。
-参考資料の「浸水APIのインターフェース仕様書」や「浸水APIのインターフェース仕様書」をご覧ください。
+参考資料の「浸水APIのインターフェース仕様書」や「土砂APIのインターフェース仕様書」をご覧ください。
