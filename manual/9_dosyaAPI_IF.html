@@ -79,8 +79,7 @@
             <article class="content wrap" id="_content" data-uid="">
 <h1 id="土砂apiのインターフェース仕様">土砂APIのインターフェース仕様</h1>
 
-<p>土砂API自体を利用者が自ら準備する必要があるが、そのためのインターフェース仕様を記載します。
-これに沿ったAPIを作成すれば、利用が可能となります。</p>
+<p>利用者自らが土砂APIを準備する必要があり、そのためのインターフェース仕様を記載しています。これに沿ったAPIを作成すれば、土砂API（土砂API 操作マニュアル参照）の利用が可能となります。</p>
 <h3 id="リクエスト">リクエスト</h3>
 <ul>
 <li>概要：土砂エリア生成リクエスト</li>
@@ -162,7 +161,7 @@
 </tr>
 </tbody>
 </table>
-<p>土砂エリア生成リクエストのJson例
+<p>Json形式による土砂エリア生成リクエストの例
 <img src="../resources/devMan/devMan_006.png" alt=""></p>
 <h3 id="レスポンス">レスポンス</h3>
 <ul>
@@ -196,7 +195,7 @@
 </tr>
 </tbody>
 </table>
-<p>土砂エリア生成レスポンスのGeoJson例
+<p>GeoJson形式による土砂エリア生成レスポンスのGeoJson例
 <img src="../resources/devMan/devMan_007.png" alt=""></p>
 <h3 id="レスポンスコード">レスポンスコード</h3>
 <ul>
@@ -215,12 +214,12 @@
 <tr>
 <td>1</td>
 <td>201 Created</td>
-<td>リクエストが受理され、Geojsonが作られた場合</td>
+<td>リクエストが受理され、GeoJsonが作られた場合</td>
 </tr>
 <tr>
 <td>2</td>
 <td>204 No Content</td>
-<td>リクエストは受理されたが、Geojsonが生成されない場合      ・対象エリア範囲外（DEMデータ整備範囲外）      ・入力された浸水高で浸水が広がらない など</td>
+<td>リクエストは受理されたが、GeoJsonが生成されない場合      ・対象エリア範囲外（DEMデータ整備範囲外）      ・入力された浸水高で浸水が広がらない など</td>
 </tr>
 <tr>
 <td>3</td>
@@ -245,7 +244,7 @@
 <tr>
 <td>7</td>
 <td>500 Internal Server Error</td>
-<td>リクエストは受理したが、Geojsonが生成時にエラーが発生した場合</td>
+<td>リクエストは受理したが、GeoJsonの生成時にエラーが発生した場合</td>
 </tr>
 </tbody>
 </table>
