@@ -1,4 +1,3 @@
-![image](https://github.com/Project-PLATEAU/Disaster-damage-simulator/assets/81245794/d0d6a3c9-b8c0-465c-9b24-a7fbf343a15d)
 # 家屋損害額シミュレータ
 
 ![](./resources/readme1.png)
