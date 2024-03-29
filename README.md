@@ -1,4 +1,4 @@
-
+![image](https://github.com/Project-PLATEAU/Disaster-damage-simulator/assets/81245794/d0d6a3c9-b8c0-465c-9b24-a7fbf343a15d)
 # 家屋損害額シミュレータ
 
 ![](./resources/readme1.png)
@@ -22,7 +22,7 @@
 - 本システムを利用するためには、ArcGIS Proの有料ライセンスが必要となります。動作環境に記載したツールや、ArcGISのオプションライセンスも必要となるケースがあります。
 - 建物の評価額や損害額を算出する設定ファイルを作成する必要があります。現在はダミーの値が入っているため、手順書に従い事前の変更が必須となります。
 - 本システムでは浸水範囲及び土砂災害範囲を動的に生成する場合、シミュレーション結果をAPIによって外部から取得する仕組みとなっています。この仕組みを利用する場合、外部サーバを用意する必要があります。
-- 本システムの詳細については[技術検証レポート](https://XXXXX)を参照してください。
+- 本システムの詳細については[技術検証レポート](https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0073_ver01.pdf)を参照してください。
 
 
 ## 3. 利用手順
@@ -112,5 +112,5 @@
 
 
 ## 11. 参考資料
-- 技術検証レポート: <https://XXXXX>
+- 技術検証レポート: <https://www.mlit.go.jp/plateau/file/libraries/doc/plateau_tech_doc_0073_ver01.pdf>
 - PLATEAU Webサイト Use caseページ「損害保険支払い作業の迅速化等」: <https://www.mlit.go.jp/plateau/use-case/uc23-03/>
